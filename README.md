@@ -139,3 +139,5 @@ sns.kdeplot(x=df['wind'],data=df)
 sns.countplot(y="precipitation",data=df)
 ~~~
 ![image](https://user-images.githubusercontent.com/94226297/202077705-a325ad73-9ac3-4ca4-a694-607793f5e798.png)
+### Result:
+Hence the program to analyze the data set using data science is applied sucessfully.
